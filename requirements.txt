@@ -1,2 +1,5 @@
-jupyterlab==1.2.0
-pytest==5.2.2
+jupyter
+jupyterlab
+pytest
+opencv-python
+matplotlib
